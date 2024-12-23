@@ -24,7 +24,7 @@ Feel free to reach out via email or LinkedIn for collaboration or consultation o
 ---
 
 ### 🌐 Find Me Online
-- **GitHub Portfolio:** [github.com/PRATIK1015]https://github.com/PRATIK1015)
+- **GitHub Portfolio:** [github.com/PRATIK1015] (https://github.com/PRATIK1015)
 
 ---
 
